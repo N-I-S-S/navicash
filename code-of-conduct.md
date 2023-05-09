@@ -6,6 +6,6 @@ Feel free to contribute to the development of this project and express your opin
 
 Unconstructive critisism is not welcomed as well as trolling, flaming and other forms of personal harassment or offending behaviour.
 
-We reserve the right to remove from our communication channels public comments or messages violating this Code of Conduct.
+We reserve the right to remove from our communication channels, public comments or messages violating this Code of Conduct.
 
 Repeating offenders will be banned. Please report any incidents related with this Code of Conduct to moderators of this project.
